@@ -4,4 +4,6 @@ Git has a mutable index called stage.
 Git tracks changes by lines instead of file.
 change without add to git.
 
+creating a new branch is quick!
+
 Git is wrote by the father of Linux ---linus.
